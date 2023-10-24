@@ -1,14 +1,3 @@
----
-title: "Backend: Bases de datos y Sistemas de Administración de Información para una App"
-output:
-  pdf_document:
-    toc: true
-    latex_engine: pdflatex
-  html_document:
-    toc: true
-    theme: united
----
-
 # Antecedentes
 
 La App está en desarrollo, particularmente su _backend_. Al día presente se tiene un _MVP_ que tiene un desarrollo muy avanzado en la parte de _ciencia de datos_ y un desarrollo parcial en las _bases de datos_ (BD).
